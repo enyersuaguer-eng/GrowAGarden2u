@@ -1,0 +1,4 @@
+getgenv().wl = { "multicuentadeangel5" }
+getgenv().HesizCode = "78875CAC2A444797"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ifeelluckyy/Lucky/refs/heads/main/gag.lua"))()
